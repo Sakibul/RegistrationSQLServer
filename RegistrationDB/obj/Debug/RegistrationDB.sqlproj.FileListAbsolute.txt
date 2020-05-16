@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.dacpac
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.dll
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.pdb
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.dll
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.pdb
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\Model.xml
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\refactor.xml
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\postdeploy.sql
+C:\Users\User\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\predeploy.sql
